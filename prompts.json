@@ -1,0 +1,13 @@
+{
+  "city_questions": [
+    "Which city did you grow up in?",
+    "What's the name of your hometown?",
+    "Where were you raised?"
+  ],
+  "pet_questions": [
+    "What's your pet's name?",
+    "What did you name your first pet?",
+    "What's the name of your favorite animal companion?"
+  ],
+  "ai_prompt_template": "Suggest a creative and funny band name using the city '{city}' and a pet named '{pet}'."
+}

@@ -1,6 +1,6 @@
 ## Description
 
-Welcome to the **AI-Powered Band Name Generator**! This fun Python app uses OpenAI's GPT-3.5 to generate creative and unique band names based on your hometown and pet’s name.
+Welcome to the **AI-Powered Band Name Generator**! This fun Python app uses OpenAI's GPT-3.5 model to generate creative and unique band names based on your hometown and pet’s name.
 
 ## Features
 

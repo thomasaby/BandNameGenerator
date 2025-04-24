@@ -1,9 +1,9 @@
-
-# AI-Powered Band Name Generator
+## Description
 
 Welcome to the **AI-Powered Band Name Generator**! This fun Python app uses OpenAI's GPT-3.5 to generate creative and unique band names based on your hometown and pet’s name.
 
 ## Features
+
 - **AI-powered**: Uses OpenAI's GPT-3.5 (or GPT-4) to generate a creative band name.
 - **Interactive**: Takes user inputs like the city they grew up in and their pet’s name to generate a personalized band name.
 - **Randomized Prompts**: Allows for a variety of prompt questions to keep the experience fresh and fun.
@@ -11,6 +11,7 @@ Welcome to the **AI-Powered Band Name Generator**! This fun Python app uses Open
 ## Getting Started
 
 ### Prerequisites
+
 Make sure you have the following installed:
 
 1. **Python 3.7+**: You can download Python [here](https://www.python.org/downloads/).
@@ -57,6 +58,7 @@ python name_generator.py
 ```
 
 The script will:
+
 1. Prompt you for the name of the city you grew up in and your pet’s name.
 2. Generate a band name suggestion using AI.
 
@@ -101,6 +103,7 @@ Ensure that your `.env` file contains your API key, and it's being loaded correc
 ## Contributing
 
 Feel free to fork the repository and make changes. You can contribute by:
+
 - Adding more prompts or randomization options.
 - Improving the AI prompt to make it even more creative.
 - Fixing bugs or improving performance.
